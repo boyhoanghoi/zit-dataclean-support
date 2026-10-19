@@ -14,7 +14,7 @@ after certification; no unofficial purchase link is required.
 
 - [Privacy policy](PRIVACY.md)
 - [Hướng dẫn tiếng Việt](FIRST_RUN_VI.md)
-- [Report a problem / Gửi lỗi](../../issues)
+- [Report a problem / Gửi lỗi](https://github.com/boyhoanghoi/zit-dataclean-support/issues)
 
 When requesting support, include your app version, Windows version, file format
 and a short description of what happened. Share a small **redacted** example
