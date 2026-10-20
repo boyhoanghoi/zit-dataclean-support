@@ -1,4 +1,6 @@
-# Zit DataClean — Support
+# SheetNeat — CSV & Excel Cleaner
+
+Support and documentation for the Windows desktop app.
 
 **Offline CSV & Excel cleanup for Windows**, published by **Zit Developer**.
 
@@ -9,7 +11,7 @@ new CSV or text-typed Excel workbook. Your source files stay intact.
 The interface starts in English. Vietnamese is an optional language in the
 top-right selector, and an explicit choice is remembered between sessions.
 
-![Zit DataClean English interface](screenshots/english/01-clean-preview.png)
+![SheetNeat English interface](screenshots/english/01-clean-preview.png)
 
 The app is being prepared for Microsoft Store certification. This page does not
 claim it is already available for purchase. The final Store link will be added

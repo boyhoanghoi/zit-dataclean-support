@@ -1,11 +1,11 @@
-# Getting started with Zit DataClean
+# Getting started with SheetNeat
 
-Zit DataClean processes CSV and Excel tables on your computer. No account,
+SheetNeat processes CSV and Excel tables on your computer. No account,
 internet connection or Python installation is needed for the portable build.
 
 ## Your first cleanup
 
-1. Open ZitDataClean.exe. Keep its entire folder, including _internal, together.
+1. Open SheetNeat.exe. Keep its entire folder, including _internal, together.
 2. Click **Try sample data**, or drag CSV/XLSX files into the window.
 3. Check the files and worksheets you want to combine in the left panel.
 4. Choose your rules on the right. **Duplicate keys** lets you match by order ID,

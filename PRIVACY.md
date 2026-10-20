@@ -1,9 +1,9 @@
-# Privacy policy — Zit DataClean
+# Privacy policy — SheetNeat
 
 Effective date: 20 October 2026
 Publisher: Zit Developer
 
-Zit DataClean processes CSV and Excel files locally on your Windows computer.
+SheetNeat processes CSV and Excel files locally on your Windows computer.
 The application does not upload your files, contact a server, display ads,
 include analytics, or require a user account.
 
@@ -27,6 +27,6 @@ Microsoft Store and PayPal have their own policies covering purchases,
 licensing, updates and payments. Those services do not receive your table
 contents from this application.
 
-For support, use the support link on the official Zit DataClean Store listing
+For support, use the support link on the official SheetNeat Store listing
 or the issue tracker linked from its project documentation. Do not attach
 private files; provide a small redacted example where possible.
