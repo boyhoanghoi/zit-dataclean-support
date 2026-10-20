@@ -6,15 +6,19 @@ Combine selected CSV/XLSX worksheets, remove duplicate and empty rows, normalize
 whitespace, and save reusable cleanup recipes. Preview the results and export a
 new CSV or text-typed Excel workbook. Your source files stay intact.
 
-![Zit DataClean English interface](screenshots/02-clean-preview-en.png)
+The interface starts in English. Vietnamese is an optional language in the
+top-right selector, and an explicit choice is remembered between sessions.
+
+![Zit DataClean English interface](screenshots/english/01-clean-preview.png)
 
 The app is being prepared for Microsoft Store certification. This page does not
 claim it is already available for purchase. The final Store link will be added
 after certification; no unofficial purchase link is required.
 
 - [Privacy policy](PRIVACY.md)
-- [Hướng dẫn tiếng Việt](FIRST_RUN_VI.md)
-- [Report a problem / Gửi lỗi](https://github.com/boyhoanghoi/zit-dataclean-support/issues)
+- [Getting started](GETTING_STARTED.md)
+- [Optional Vietnamese guide](FIRST_RUN_VI.md)
+- [Report a problem](https://github.com/boyhoanghoi/zit-dataclean-support/issues)
 
 When requesting support, include your app version, Windows version, file format
 and a short description of what happened. Share a small **redacted** example
