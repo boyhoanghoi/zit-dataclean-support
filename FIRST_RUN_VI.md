@@ -1,5 +1,8 @@
 # Dùng thử Zit DataClean
 
+Ứng dụng mặc định tiếng Anh. Để dùng các nhãn trong hướng dẫn này, chọn **Tiếng Việt**
+ở menu ngôn ngữ góc trên bên phải. Hướng dẫn tiếng Anh có trong FIRST_RUN_EN.md.
+
 1. Mở `ZitDataClean.exe` trong thư mục bản portable. Không cần cài Python.
 2. Bấm **Thử dữ liệu mẫu** hoặc kéo file CSV/XLSX vào cửa sổ.
 3. Chọn các trang tính muốn gộp ở danh sách bên trái.
